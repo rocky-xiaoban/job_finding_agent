@@ -1,0 +1,9 @@
+config.py
+profile.json
+test_data/
+.idea/
+.vscode/
+.DS_Store
+applications.json
+__pycache__/
+*.pyc
